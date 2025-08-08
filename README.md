@@ -33,7 +33,7 @@ apt update
 apt upgrade
 
 🤗 Step 3:
-pkg install git #https://github.com/sychoxhassan/LwuSmsBoomber
+pkg install git
 
 😈 Step 4:
 pkg install python
@@ -42,13 +42,13 @@ pkg install python
 pip install requests colorama
 
 👾 Step 6:
-git clone 
+git clone https://github.com/sychoxhassan/LwuSmsBoomber
 
 💪 Step 7:
 ls
 
 👹 Step 8:
-cd 
+cd LwuSmsBoomber
 
 💩 Step 9:
-python
+python LwuSmsBoomber.py
