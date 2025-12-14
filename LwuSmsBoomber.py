@@ -64,8 +64,8 @@ def display_banner():
 {Back.BLACK + Fore.RED}=======================================
 {Back.BLACK + Fore.RED}         SYCHO SMS BOMBER v1.0
 {Back.BLACK + Fore.RED}=======================================
-{Back.BLACK + Fore.RED + Style.DIM}   Created by SychoX2006 - 2025       {Style.RESET_ALL}
-{Back.BLACK + Fore.RED + Style.DIM}   Purpose: Advanced OTP Testing    {Style.RESET_ALL}
+{Back.BLACK + Fore.RED + Style.DIM}   Created by @SychoX2006 (telegram)      {Style.RESET_ALL}
+{Back.BLACK + Fore.RED + Style.DIM}   Website: tlz.vercel.app {Style.RESET_ALL}
 {Back.BLACK + Fore.RED + Style.DIM}   ⚠️ Educational Use Only!         {Style.RESET_ALL}
 {Back.BLACK + Fore.RED}=======================================
 {Style.RESET_ALL}"""
